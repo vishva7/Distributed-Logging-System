@@ -1,4 +1,4 @@
-# EC-Team-12-distributed-logging-system
+# Distributed Logging System
 
 ### Setup Instructions:
 
